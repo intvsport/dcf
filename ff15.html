@@ -1,0 +1,365 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Live Streaming</title>
+<meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no' name='viewport'/>
+<meta charset='utf-8'/>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/shaka-player@4.7.7/dist/controls.css' />
+<script src='https://cdn.jsdelivr.net/npm/shaka-player@4.7.7/dist/shaka-player.ui.debug.js'></script>
+<!--<script src='https://cdn.jsdelivr.net/gh/muhammadnashirhaer/duktek/js/jquery-3.7.1.min.js'/>-->
+
+<!--<script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool@latest'></script>
+<script src='//cdn.jsdelivr.net/npm/devtools-detector'></script>-->
+
+
+<style id='page-skin-1' type='text/css'>
+.wrapper{
+width:100vw;
+height:100vh;
+}
+body{
+padding:0px;
+margin:0px;
+height:100vh;
+width:100vw;
+overflow:hidden;
+box-sizing: border-box;
+background:#000000;
+font-family:Roboto-Regular,Roboto,sans-serif,TengwarTelcontar;
+}
+.iframe{
+padding:0px;
+margin:0px;
+height:100vh;
+width:100vw;
+}
+#cloud{
+position: fixed;
+top: 15px;
+left:15px;
+z-index: 10000;
+font-size: 14px;
+padding:10px;
+border-radius:5px;
+background:rgba(0, 0, 0, 0.6);
+color: #FFFFFF;
+text-align:center;
+}
+#cookieChoiceInfo{
+display:none!important;
+}
+.theme-blue .shaka-controls-button-panel .material-icons-round {
+color: #eee
+}
+.theme-blue .shaka-overflow-menu,
+.theme-blue .shaka-settings-menu {
+background: rgba(0, 0, 0, 0.8);
+border-radius: 4px;
+}
+.theme-blue .shaka-overflow-menu span+span {
+font-size: 80%;
+color: #fff;
+padding-top: 2px
+}
+.theme-blue .shaka-overflow-menu button,
+.theme-blue .shaka-settings-menu button {
+color: #fff;
+transition: all .2s linear;
+}
+.theme-blue .shaka-overflow-menu button:hover,
+.theme-blue .shaka-settings-menu button:hover {
+background: #3275e4;
+cursor: auto
+}
+.display-none{ display:none;}
+
+#container {
+  width: 100vw;
+  height: 100vh;
+}
+
+/* This is the CSS for your logo, to position it on top of the video. */
+#myLogo {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  display: inline-block;
+  height:41px;
+  width:100px;
+}
+
+</style>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+</head>
+<body>
+<div class='header section display-none no-items section' id='header'></div>
+<div id='cloud'>Buffering...</div>
+<div class="theme-blue">
+	<!--<video autoplay='true' data-shaka-player='' id='video' poster='https://assets.goal.com/images/v3/blt23496ca9d7cd3ecd/cl.jpg?auto=webp&format=pjpg&width=3840&quality=60' preload='auto' style='width:100vw;height:100vh;'></video>-->
+	<div data-shaka-player-container id="container">
+		<video autoplay='true' data-shaka-player='' id='video' 
+		poster='' preload='auto' style='width:100vw;height:100vh;'></video>
+		<!--
+		<a id="myLogo" href="" target="_blank"><img height="41px" width="100px" src="" /></a>
+		-->
+	</div>
+</div>
+<!--<script disable-devtool-auto='' src='https://cdn.jsdelivr.net/npm/disable-devtool@latest'/>-->
+<script type='text/javascript'>
+	var _parseRef	= null;
+	var _myRef		= document.referrer;
+	if(_myRef == ''){
+		_myRef = location.href;
+	}
+	//<![CDATA[
+	function initApp() {
+      shaka.polyfill.installAll();
+      if (shaka.Player.isBrowserSupported()) {
+        init();
+      } else {
+        console.error('Browser not supported!');
+      }
+    }
+	
+	
+	const video 		= document.getElementById('video');
+	var _get = function(name, _currUrl = ''){
+		if(_currUrl == ''){
+			if(name=(new RegExp('[?&]'+encodeURIComponent(name)+'=([^&]*)')).exec(location.search))
+				return decodeURIComponent(name[1]);
+		} else {
+			var _objUrl = new URL(_currUrl);
+			if(name=(new RegExp('[?&]'+encodeURIComponent(name)+'=([^&]*)')).exec(_objUrl.search))
+				return decodeURIComponent(name[1]);
+		}
+	}
+	var _videoType 	= _get('type');		
+	if(_videoType == 'dash-clearkey-multi'){
+		var _myVideo 	= atob(atob(_get('v'))).split(':');
+		var _keys		= atob(_myVideo[1]).split(',');
+		var _cKeys		= {};
+		for(var _x=0,_len=_keys.length;_x<_len;_x++){
+			var _sp = _keys[_x].split(':');
+			_cKeys[atob(_sp[0])] = atob(_sp[1]);
+		}
+		var _vConfig = {					
+			'mpd':atob(_myVideo[0])
+		};
+		var _cKey	= JSON.stringify(_cKeys);
+		//var _cKey	= '{"'+_vConfig.keyId+'":"'+_vConfig.key+'"}';
+	} else if(_videoType == 'dash-clearkey'){
+		var _myVideo 	= atob(atob(_get('v'))).split(':');
+		var _vConfig = {
+			'keyId':atob(_myVideo[1]),
+			'key':atob(_myVideo[2]),
+			'mpd':atob(_myVideo[0])
+		};
+		var _cKey	= '{"'+_vConfig.keyId+'":"'+_vConfig.key+'"}';
+	} else {
+		//var _myVideo 	= atob(atob(_get('v')));
+		var _vConfig = {					
+			'mpd':_get('v')
+		};
+		
+	}
+
+	/*var player 		= null;
+	var ui 			= null;
+	var controls 	= null;*/
+	var _currMpd 	= '';
+	var _currError  = 1;	
+	async function init() {	  		
+		/*ui 			= video['ui'];
+		controls 	= ui.getControls();
+		player 		= controls.getPlayer();*/
+		
+		const video 	= await document.getElementById('video');
+		const ui 		= await video['ui'];
+		const controls 	= await ui.getControls();
+		const player 	= await controls.getPlayer();
+		
+		if(_videoType == 'dash-clearkey' || _videoType == 'dash-clearkey-multi'){
+			var _consoleKey = JSON.parse(_cKey);
+			player.configure({
+				drm: {
+					clearKeys: _consoleKey
+				}
+			});
+			
+			console.log('console_key',_consoleKey);
+		} else {
+			player.configure({});
+		}
+		const config = {
+			'seekBarColors': {
+			  base: 'rgba(66, 133, 244, 0.35)',
+			  buffered: 'rgba(66, 133, 244, 0.6)',
+			  played: 'rgba(66, 133, 244, 0.8)',
+			},
+			'volumeBarColors': {
+			  base: 'rgba(66, 133, 244, 0.8)',
+			  level: 'rgb(66, 133, 244)',
+			}
+		};
+		ui.configure(config);
+
+		window.player 	= player;
+		window.ui 		= ui;
+		window.controls = controls;
+		player.addEventListener('error', onPlayerErrorEvent);
+		controls.addEventListener('error', onUIErrorEvent);
+		mainkan(_vConfig.mpd);
+		
+		function onPlayerErrorEvent(errorEvent) {
+			onPlayerError(event.detail);
+		}
+		
+		function onPlayerError(error) {
+			console.log(error);
+			console.error('Error code', error.code, 'object', error);
+			//document.getElementById('cloud').innerHTML = 'Error message: '+error.message;
+			document.getElementById('cloud').innerHTML = 'Error code: '+error.code;
+			document.getElementById('cloud').style.display = 'block';		
+			setTimeout(function(){			
+				if(_currError >= 2){
+					var _jsonMessage 	= {"title":"", "path":"", "text":"true", "type":"_reloadOnError"};															
+					window.parent.postMessage(JSON.stringify(_jsonMessage), "https://"+location.host);
+				} else {
+					reload(_currMpd);
+				}
+			}, _currError*5000);
+			_currError++;
+		}
+		
+		function onUIErrorEvent(errorEvent) {
+			onPlayerError(event.detail);
+		}
+	}
+	
+	function onPlayerError(error) {
+		console.log(error);
+		console.error('Error code', error.code, 'object', error);
+		//document.getElementById('cloud').innerHTML = 'Error message: '+error.message;
+		document.getElementById('cloud').innerHTML = 'Error code: '+error.code;
+		document.getElementById('cloud').style.display = 'block';		
+		setTimeout(function(){			
+			if(_currError >= 2){
+				var _jsonMessage 	= {"title":"", "path":"", "text":"true", "type":"_reloadOnError"};															
+				window.parent.postMessage(JSON.stringify(_jsonMessage), "https://"+location.host);
+			} else {
+				reload(_currMpd);
+			}
+		}, _currError*5000);
+		_currError++;
+	}
+	
+	async function mainkan(_mpd) {
+		_currMpd = _mpd;
+		try {
+			//alert(_vConfig.mpd);
+			document.getElementById('cloud').innerHTML = 'Please wait...';
+			document.getElementById('cloud').style.display = 'block';
+			await player.load(_mpd);
+			console.log('The video has now been loaded!');
+			document.getElementById('cloud').style.display = 'none';
+			_currError = 1;
+		} catch (error) {
+			onPlayerError(error);
+		}
+	}
+	
+	async function reload(_mpd) {
+		_currMpd = _mpd;
+		try {
+			//alert(_vConfig.mpd);
+			document.getElementById('cloud').innerHTML = 'Trying to play...';
+			document.getElementById('cloud').style.display = 'block';
+			await player.load(_mpd);
+			console.log('The video has now been loaded!');
+			document.getElementById('cloud').style.display = 'none';
+			_currError = 1;
+		} catch (error) {
+			onPlayerError(error);
+		}
+	}
+	
+
+	
+
+	
+	
+	
+
+	
+
+	function initFailed(errorEvent) {
+		console.error('Unable to load the UI library!');
+	}
+	document.addEventListener('shaka-ui-loaded', init);
+	document.addEventListener('shaka-ui-load-failed', initFailed);
+	document.addEventListener('DOMContentLoaded', initApp);
+
+	var _jsonMessage 	= {"title":"", "path":"", "text":"true", "type":"_isReady"};															
+	window.parent.postMessage(JSON.stringify(_jsonMessage), "https://"+location.host);
+	
+	
+	/* Receive Message */
+	window.onmessage = event => {
+		if(event.origin === 'https://'+location.host) { 
+			//Domain dari Iframe
+			var _shakaUrl 	= atob(event.data);				
+				_videoType 	= _get('type', _shakaUrl);		
+			if(_videoType == 'dash-clearkey-multi'){
+				_myVideo 	= atob(atob(_get('v', _shakaUrl))).split(':');
+				_keys		= atob(_myVideo[1]).split(',');
+				_cKeys		= {};
+				for(var _x=0,_len=_keys.length;_x<_len;_x++){
+					var _sp = _keys[_x].split(':');
+					_cKeys[atob(_sp[0])] = atob(_sp[1]);
+				}
+				_vConfig = {					
+					'mpd':atob(_myVideo[0])
+				};
+				_cKey	= JSON.stringify(_cKeys);
+				
+				//var _cKey	= '{"'+_vConfig.keyId+'":"'+_vConfig.key+'"}';
+			} else if(_videoType == 'dash-clearkey'){
+				_myVideo 	= atob(atob(_get('v', _shakaUrl))).split(':');
+				_vConfig = {
+					'keyId':atob(_myVideo[1]),
+					'key':atob(_myVideo[2]),
+					'mpd':atob(_myVideo[0])
+				};
+				_cKey	= '{"'+_vConfig.keyId+'":"'+_vConfig.key+'"}';
+			} else {
+				_myVideo 	= atob(atob(_get('v', _shakaUrl)));
+				_vConfig = {					
+					'mpd':atob(_myVideo)
+				};
+				
+			}
+			
+			
+			if(_videoType == 'dash-clearkey' || _videoType == 'dash-clearkey-multi'){
+				player.configure({
+					drm: {
+						clearKeys: JSON.parse(_cKey)
+					}
+				});
+			} else {
+				player.configure({});
+			}
+			//player.load(_vConfig.mpd);
+			document.getElementById('cloud').innerHTML = 'Initializing...';
+			document.getElementById('cloud').style.display = 'block';
+			mainkan(_vConfig.mpd);
+		}
+	}
+	
+	//]]>
+	</script>
+</body>
+</html>
