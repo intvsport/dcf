@@ -132,11 +132,7 @@
             try {
                 await player.load(manifestUri);
                 console.log("The video has now been loaded!");
-                video.play().catch(e => {
-                    console.log("Autoplay blocked or failed, attempting muted autoplay:", e);
-                    video.muted = true;
-                    video.play();
-                });
+                video.play();
             } catch (error) {
                 onPlayerError(error);
             }
