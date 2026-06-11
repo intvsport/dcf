@@ -29,7 +29,7 @@
     "data_stream": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
     "badge": "LIVE",
     "logo_text": "CT SPORT",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   },
   {
     "name": "DSPORTS",
@@ -37,7 +37,7 @@
     "data_stream": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
     "badge": "LIVE",
     "logo_text": "DSPORTS",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   },
   {
     "name": "DSPORTS+",
@@ -45,7 +45,7 @@
     "data_stream": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
     "badge": "LIVE",
     "logo_text": "DSPORTS+",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   },
   {
     "name": "DSPORTS2",
@@ -53,7 +53,7 @@
     "data_stream": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd",
     "badge": "LIVE",
     "logo_text": "DSPORTS 2",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   },
   {
     "name": "TSN 1",
@@ -61,7 +61,7 @@
     "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
     "badge": "LIVE",
     "logo_text": "TSN 1",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   },
   {
     "name": "TSN 2",
@@ -69,7 +69,7 @@
     "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
     "badge": "LIVE",
     "logo_text": "TSN 2",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   },
   {
     "name": "TSN 3",
@@ -77,7 +77,7 @@
     "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
     "badge": "LIVE",
     "logo_text": "TSN 3",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   },
   {
     "name": "TSN 4",
@@ -85,7 +85,7 @@
     "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
     "badge": "LIVE",
     "logo_text": "TSN 4",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   },
   {
     "name": "TSN 5",
@@ -93,7 +93,7 @@
     "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
     "badge": "LIVE",
     "logo_text": "TSN 5",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   },
   {
     "name": "CCTV 5",
@@ -101,7 +101,7 @@
     "data_stream": "go:tv5",
     "badge": "LIVE",
     "logo_text": "CCTV 5",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   },
   {
     "name": "CCTV 5+",
@@ -109,7 +109,7 @@
     "data_stream": "go:tv5plus",
     "badge": "LIVE",
     "logo_text": "CCTV 5+",
-    "subtitle": "Piala Dunia 2026"
+    "subtitle": "World Cup 2026"
   }
 
 ]
