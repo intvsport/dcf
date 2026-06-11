@@ -8,10 +8,10 @@
     <title>Shaka Player Demo</title>
 
     <!-- Shaka Player -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.12.18/shaka-player.ui.min.js"
+    <script src="https://cdn.jsdelivr.net/npm/shaka-player@5.0.18/dist/shaka-player.ui.min.js"
         crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.12.18/controls.min.css"
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/shaka-player@5.0.18/dist/controls.css"
         crossorigin="anonymous">
 
     <style>
@@ -75,7 +75,7 @@
     <div data-shaka-player-container
         style="position:absolute; z-index:-1; top:0; left:0; width:100%; height:100%; object-fit:cover;">
 
-        <video autoplay data-shaka-player id="video" poster="" style="width:100%; height:100%;">
+        <video autoplay playsinline data-shaka-player id="video" poster="" style="width:100%; height:100%;">
         </video>
 
     </div>
@@ -84,7 +84,7 @@
         function getParameterByName(name) {
             name = name.replace(/[\[]/, "\[").replace(/[\]]/, "\]");
             var regex = new RegExp("[\?&]" + name + "=([^&#]*)"),
-            results = regex.exec(location.search);
+                results = regex.exec(location.search);
             return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
         }
 
@@ -94,8 +94,7 @@
         var getIMG = getParameterByName('img');
         var getLang = getParameterByName('lang');
 
-        const manifestUri =
-            get || "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8";
+        const manifestUri = get;
 
         async function init() {
             const video = document.getElementById("video");
@@ -106,13 +105,7 @@
             window.player = player;
             window.ui = ui;
 
-            player.configure({
-                drm: {
-                    clearKeys: {
-                        [key || "220d8978f3fd45b696137c5b94f7a264"]:
-                            key2 || "7bfe13500edee4f837ec03a907896306"
-                    }
-                },
+            const playerConfig = {
                 abr: {
                     defaultBandwidthEstimate: 16888,
                     enabled: true,
@@ -121,7 +114,17 @@
                         maxHeight: 720
                     }
                 }
-            });
+            };
+
+            if (key && key2) {
+                playerConfig.drm = {
+                    clearKeys: {
+                        [key]: key2
+                    }
+                };
+            }
+
+            player.configure(playerConfig);
 
             player.addEventListener("error", onPlayerErrorEvent);
             controls.addEventListener("error", onUIErrorEvent);
@@ -129,6 +132,11 @@
             try {
                 await player.load(manifestUri);
                 console.log("The video has now been loaded!");
+                video.play().catch(e => {
+                    console.log("Autoplay blocked or failed, attempting muted autoplay:", e);
+                    video.muted = true;
+                    video.play();
+                });
             } catch (error) {
                 onPlayerError(error);
             }
