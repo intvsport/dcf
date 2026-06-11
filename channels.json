@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Caze TV 1",
+    "href": "go:caze1",
+    "data_stream": "go:caze1",
+    "badge": "LIVE",
+    "logo_text": "Caze TV 1",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Okey TV",
+    "href": "#",
+    "data_stream": "url_okey_tv",
+    "badge": "",
+    "logo_text": "OKEY",
+    "subtitle": "Entertainment & Sports"
+  },
+  {
+    "name": "RTM Sukan",
+    "href": "#",
+    "data_stream": "url_rtm_sukan",
+    "badge": "LIVE",
+    "logo_text": "SPORTS",
+    "subtitle": "Complete Sports"
+  },
+  {
+    "name": "Unifi WC1",
+    "href": "#",
+    "data_stream": "url_unifi_wc1",
+    "badge": "",
+    "logo_text": "UNIFI",
+    "subtitle": "Premium Match"
+  },
+  {
+    "name": "Telemundo 1",
+    "href": "#",
+    "data_stream": "url_telemundo1",
+    "badge": "LIVE",
+    "logo_text": "TUNDO",
+    "subtitle": "Español Stream"
+  },
+  {
+    "name": "TSN 1 HD",
+    "href": "#",
+    "data_stream": "url_tsn1",
+    "badge": "",
+    "logo_text": "TSN 1 HD",
+    "subtitle": "Canada Network"
+  }
+]
