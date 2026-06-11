@@ -116,11 +116,26 @@
                 }
             };
 
-            if (key && key2) {
+            const clearKeys = {};
+            if (key) {
+                if (key.includes(':') || key.includes(',')) {
+                    // Format multiple keys: key=KID1:KEY1,KID2:KEY2
+                    const keyPairs = key.split(',');
+                    keyPairs.forEach(pair => {
+                        const parts = pair.split(':');
+                        if (parts.length === 2) {
+                            clearKeys[parts[0].trim()] = parts[1].trim();
+                        }
+                    });
+                } else if (key2) {
+                    // Format single key bawaan: key=KID&key2=KEY
+                    clearKeys[key] = key2;
+                }
+            }
+
+            if (Object.keys(clearKeys).length > 0) {
                 playerConfig.drm = {
-                    clearKeys: {
-                        [key]: key2
-                    }
+                    clearKeys: clearKeys
                 };
             }
 
