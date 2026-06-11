@@ -23,7 +23,6 @@
     "logo_text": "TVP SPORT",
     "subtitle": "World Cup 2026"
   },
- [
   {
     "name": "CT SPORT",
     "href": "player.html?get=https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd&key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
@@ -112,6 +111,5 @@
     "logo_text": "CCTV 5+",
     "subtitle": "Piala Dunia 2026"
   }
-]
 
 ]
