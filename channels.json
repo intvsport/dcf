@@ -8,6 +8,14 @@
     "subtitle": "World Cup 2026"
   },
   {
+    "name": "Caze TV 1",
+    "href": "go:caze1",
+    "data_stream": "go:caze1",
+    "badge": "LIVE",
+    "logo_text": "Caze TV 1",
+    "subtitle": "World Cup 2026"
+  },
+  {
     "name": "Okey TV",
     "href": "#",
     "data_stream": "url_okey_tv",
