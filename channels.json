@@ -136,7 +136,7 @@
     "subtitle": "World Cup 2026"
   },
    {
-    "name": "Telemundodeportes",
+    "name": "Telemundo deportes",
     "href": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd&key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937",
     "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd&key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937",
     "badge": "LIVE",
@@ -167,6 +167,14 @@
     "logo_text": "WC TV",
     "subtitle": "World Cup 2026"
   },
+   {
+    "name": "Zeebangla",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd&key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd&key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+    "badge": "LIVE",
+    "logo_text": "Zeebangla",
+    "subtitle": "World Cup 2026"
+  }
   {
     "name": "Caze TV 2",
     "href": "go:caze1",
