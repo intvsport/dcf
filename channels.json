@@ -1,18 +1,10 @@
 [
   {
     "name": "Caze TV 1",
-    "href": "go:caze1",
-    "data_stream": "go:caze1",
-    "badge": "LIVE",
-    "logo_text": "Caze TV 1",
-    "subtitle": "World Cup 2026"
-  },
-  {
-    "name": "Caze TV 2",
     "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&key=34475edab991ad5e92548aebd710410a&key2=501b209cccd323ac00bf5ac15b406cb4",
     "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&key=34475edab991ad5e92548aebd710410a&key2=501b209cccd323ac00bf5ac15b406cb4",
     "badge": "LIVE",
-    "logo_text": "Caze TV 2",
+    "logo_text": "Caze TV 1",
     "subtitle": "World Cup 2026"
   },
   {
@@ -110,6 +102,71 @@
     "badge": "LIVE",
     "logo_text": "CCTV 5+",
     "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "Qazsport",
+    "href": "go:qaz",
+    "data_stream": "go:qaz",
+    "badge": "LIVE",
+    "logo_text": "Qazsport",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "KAN 11",
+    "href": "go:kancdn",
+    "data_stream": "go:kancdn",
+    "badge": "LIVE",
+    "logo_text": "KAN 11",
+    "subtitle": "World Cup 2026"
+  },
+   {
+    "name": "RTB ANEKA,
+    "href": "go:rtb2",
+    "data_stream": "go:rtb2",
+    "badge": "LIVE",
+    "logo_text": "RTB ANEKA",
+    "subtitle": "World Cup 2026"
+  },
+      {
+    "name": "Himalaya Sport",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd&key=220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd&key=220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
+    "badge": "LIVE",
+    "logo_text": "Himalaya Sport",
+    "subtitle": "World Cup 2026"
+  },
+   {
+    "name": "Telemundodeportes",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd&key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd&key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937",
+    "badge": "LIVE",
+    "logo_text": "Telemundodeportes",
+    "subtitle": "World Cup 2026"
+  },
+      {
+    "name": "Telemundo(1)",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+    "badge": "LIVE",
+    "logo_text": "Telemundo(1)",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "Telemundo(2)",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+    "badge": "LIVE",
+    "logo_text": "Telemundo(2)",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Caze TV 2",
+    "href": "go:caze1",
+    "data_stream": "go:caze1",
+    "badge": "LIVE",
+    "logo_text": "Caze TV 2",
+    "subtitle": "World Cup 2026"
   }
+
 
 ]
