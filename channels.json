@@ -240,11 +240,19 @@
     "subtitle": "World Cup 2026"
   },
    {
-    "name": "CAZE TV 3x",
+    "name": "Sukan",
     "href": "go:coba1",
     "data_stream": "go:coba1",
     "badge": "LIVE",
-    "logo_text": "CAZE TV 3x",
+    "logo_text": "Sukan",
+    "subtitle": "World Cup 2026"
+  },
+   {
+    "name": "Sukanx",
+    "href": "go:mt1",
+    "data_stream": "go:mt1",
+    "badge": "LIVE",
+    "logo_text": "Sukan",
     "subtitle": "World Cup 2026"
   }
 
