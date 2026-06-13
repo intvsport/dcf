@@ -273,8 +273,8 @@
   },
     {
     "name": "FIFA WC Ch1",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://proxyfr.pages.dev/starhubgo.secureswiftcontent.com/bpk-tv/FIFAWCCh1/output/manifest.mpd&key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
-    "data_stream": "https://proxyfr.pages.dev/starhubgo.secureswiftcontent.com/bpk-tv/FIFAWCCh1/output/manifest.mpd",
+    "href": "go:coba2",
+    "data_stream": "go:coba2",
     "badge": "LIVE",
     "logo_text": "FIFA WC 1",
     "subtitle": "World Cup 2026"
