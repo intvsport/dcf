@@ -256,13 +256,31 @@
     "subtitle": "World Cup 2026"
   },
   {
-    "name": "VIX MUNDIAL 90 HD",
+    "name": "VIX MUNDIAL",
     "href": "https://intvsport.github.io/dcf/player.html?get=https://paz-live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-90-HD-H265/default.mpd&key=b922efd4893a6e4b05db2f0240a4a401:d9e6cfb8a7d28c282630c353cee01835,845afc4f7a5ac1b60d0962851fcd40ad:05b5e032725a57b16ec2bd4fe67ec6f3,7ecf2de72f3d8c80a4355abe8e0f2d1b:4ab47cbccf1ea08fa3fd82970795aad5,696435bb1f9b9387866e4d01ab969779:af4bbc01b4e6c0a14279e11451a3e474,0b470e11c47058c281568c02770088cb:dbf3e8f72b04a59e8f90034aa7552135,bfbf27d8a79f7734f720c3af6a63f5fe:d5fcf98fcee1bbdd44104f188d088335",
     "data_stream": "https://paz-live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-90-HD-H265/default.mpd",
     "badge": "LIVE",
     "logo_text": "VIX 90",
     "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "ZDF DE HD",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://fl-003.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd&key=7fc352fa54683accf20b12f679027661:993400c4b5ad851c8d6368417d6a3b4c",
+    "data_stream": "https://fl-003.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd",
+    "badge": "LIVE",
+    "logo_text": "ZDF HD",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "FIFA WC Ch1",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://proxyfr.pages.dev/starhubgo.secureswiftcontent.com/bpk-tv/FIFAWCCh1/output/manifest.mpd&key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
+    "data_stream": "https://proxyfr.pages.dev/starhubgo.secureswiftcontent.com/bpk-tv/FIFAWCCh1/output/manifest.mpd",
+    "badge": "LIVE",
+    "logo_text": "FIFA WC 1",
+    "subtitle": "World Cup 2026"
   }
+
+
 
 
 ]
