@@ -256,11 +256,11 @@
     "subtitle": "World Cup 2026"
   },
   {
-    "name": "VIX MUNDIAL",
+    "name": "VIX MUNDIAL +",
     "href": "https://intvsport.github.io/dcf/player.html?get=https://paz-live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-90-HD-H265/default.mpd&key=b922efd4893a6e4b05db2f0240a4a401:d9e6cfb8a7d28c282630c353cee01835,845afc4f7a5ac1b60d0962851fcd40ad:05b5e032725a57b16ec2bd4fe67ec6f3,7ecf2de72f3d8c80a4355abe8e0f2d1b:4ab47cbccf1ea08fa3fd82970795aad5,696435bb1f9b9387866e4d01ab969779:af4bbc01b4e6c0a14279e11451a3e474,0b470e11c47058c281568c02770088cb:dbf3e8f72b04a59e8f90034aa7552135,bfbf27d8a79f7734f720c3af6a63f5fe:d5fcf98fcee1bbdd44104f188d088335",
     "data_stream": "https://paz-live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-90-HD-H265/default.mpd",
     "badge": "LIVE",
-    "logo_text": "VIX 90",
+    "logo_text": "VIX MUNDIAL +",
     "subtitle": "World Cup 2026"
   },
     {
@@ -272,11 +272,35 @@
     "subtitle": "World Cup 2026"
   },
     {
-    "name": "FIFA WC Ch1",
+    "name": "Starhub",
     "href": "go:coba2",
     "data_stream": "go:coba2",
     "badge": "LIVE",
-    "logo_text": "FIFA WC 1",
+    "logo_text": "Starhub",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "VIX MUNDIAL",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd&key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
+    "data_stream": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+    "badge": "LIVE",
+    "logo_text": "VIX MUNDIAL",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "VRT Live",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+    "data_stream": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+    "badge": "LIVE",
+    "logo_text": "VRT",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "ITV1",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://proxy-c8q.pages.dev/cdn.stmify.com/primevideo/stream/ITV1/cenc.mpd&key=b6c1c527303bc577b85eb849cbab75d2:ec533d484c550a892ff162e4a5f4dbc3",
+    "data_stream": "https://proxy-c8q.pages.dev/cdn.stmify.com/primevideo/stream/ITV1/cenc.mpd",
+    "badge": "LIVE",
+    "logo_text": "ITV 1",
     "subtitle": "World Cup 2026"
   }
 
