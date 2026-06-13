@@ -297,8 +297,8 @@
   },
   {
     "name": "ITV1",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://proxy-c8q.pages.dev/cdn.stmify.com/primevideo/stream/ITV1/cenc.mpd&key=b6c1c527303bc577b85eb849cbab75d2:ec533d484c550a892ff162e4a5f4dbc3",
-    "data_stream": "https://proxy-c8q.pages.dev/cdn.stmify.com/primevideo/stream/ITV1/cenc.mpd",
+    "href": "go:coba3",
+    "data_stream": "go:coba3",
     "badge": "LIVE",
     "logo_text": "ITV 1",
     "subtitle": "World Cup 2026"
