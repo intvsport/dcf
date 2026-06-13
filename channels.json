@@ -302,7 +302,16 @@
     "badge": "LIVE",
     "logo_text": "ITV 1",
     "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Sport TV5",
+    "href": "go:sporttv5",
+    "data_stream": "go:sporttv5",
+    "badge": "LIVE",
+    "logo_text": "Sport TV5",
+    "subtitle": "World Cup 2026"
   }
+  
 
 
 
