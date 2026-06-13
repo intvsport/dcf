@@ -238,6 +238,14 @@
     "badge": "LIVE",
     "logo_text": "MATCH!",
     "subtitle": "World Cup 2026"
+  },
+   {
+    "name": "CAZE TV 3x",
+    "href": "go:coba1",
+    "data_stream": "go:coba1",
+    "badge": "LIVE",
+    "logo_text": "CAZE TV 3x",
+    "subtitle": "World Cup 2026"
   }
 
 
