@@ -48,46 +48,6 @@
     "subtitle": "World Cup 2026"
   },
   {
-    "name": "TSN 1",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-    "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-    "badge": "LIVE",
-    "logo_text": "TSN 1",
-    "subtitle": "World Cup 2026"
-  },
-  {
-    "name": "TSN 2",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd&key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
-    "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-    "badge": "LIVE",
-    "logo_text": "TSN 2",
-    "subtitle": "World Cup 2026"
-  },
-  {
-    "name": "TSN 3",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd&key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-    "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-    "badge": "LIVE",
-    "logo_text": "TSN 3",
-    "subtitle": "World Cup 2026"
-  },
-  {
-    "name": "TSN 4",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd&key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-    "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-    "badge": "LIVE",
-    "logo_text": "TSN 4",
-    "subtitle": "World Cup 2026"
-  },
-  {
-    "name": "TSN 5",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd&key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
-    "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-    "badge": "LIVE",
-    "logo_text": "TSN 5",
-    "subtitle": "World Cup 2026"
-  },
-  {
     "name": "CCTV 5",
     "href": "go:tv5",
     "data_stream": "go:tv5",
@@ -317,6 +277,32 @@
     "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://tencent-css.byteplaycdn.com/0b3ac0d9e956a77cb058d9e2f780ccf5/6A2E46AB/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd&key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad",
     "badge": "LIVE",
     "logo_text": "WC 1",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "Channel 5",
+    "href": "go:coba4",
+    "data_stream": "go:coba4",
+    "badge": "LIVE",
+    "logo_text": "Channel 5",
+    "subtitle": "World Cup 2026"
+  },
+  ,
+    {
+    "name": "Hub 1",
+    "href": "go:coba5",
+    "data_stream": "go:coba5",
+    "badge": "LIVE",
+    "logo_text": "Hub 1",
+    "subtitle": "World Cup 2026"
+  },
+  ,
+    {
+    "name": "Hub 2",
+    "href": "go:coba6",
+    "data_stream": "go:coba6",
+    "badge": "LIVE",
+    "logo_text": "Hub 2",
     "subtitle": "World Cup 2026"
   }
   
