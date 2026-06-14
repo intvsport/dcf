@@ -103,14 +103,6 @@
     "logo_text": "Las Estrellas",
     "subtitle": "World Cup 2026"
   },
-    {
-    "name": "NHK BSP4K",
-    "href": "go:nhk",
-    "data_stream": "go:nhk",
-    "badge": "LIVE",
-    "logo_text": "NHK BSP4K",
-    "subtitle": "World Cup 2026"
-  },
       {
     "name": "Himalaya Sport",
     "href": "https://intvsport.github.io/dcf/player.html?get=https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd&key=220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
@@ -149,14 +141,6 @@
     "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd&key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
     "badge": "LIVE",
     "logo_text": "WC TV",
-    "subtitle": "World Cup 2026"
-  },
-   {
-    "name": "Zeebangla",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd&key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd&key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-    "badge": "LIVE",
-    "logo_text": "Zeebangla",
     "subtitle": "World Cup 2026"
   },
   {
@@ -273,7 +257,7 @@
   },
   {
     "name": "WC 1",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://tencent-css.byteplaycdn.com/0b3ac0d9e956a77cb058d9e2f780ccf5/6A2E46AB/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd&key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://tencent-css.byteplaycdn.com/7162c6c2d135e4950ce67242f23a43f0/6A2F726A/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd&key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,efe538648aad30c9893edf1a69eb8c8e:fe9b77088a67777af435c3fa5f1bbdd0",
     "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://tencent-css.byteplaycdn.com/0b3ac0d9e956a77cb058d9e2f780ccf5/6A2E46AB/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd&key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad",
     "badge": "LIVE",
     "logo_text": "WC 1",
