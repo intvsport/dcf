@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Caze TV 1",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&key=34475edab991ad5e92548aebd710410a&key2=501b209cccd323ac00bf5ac15b406cb4",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&key=34475edab991ad5e92548aebd710410a&key2=501b209cccd323ac00bf5ac15b406cb4",
+    "badge": "LIVE",
+    "logo_text": "Caze TV 1",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "TVP Sport",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd&key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64,181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10,1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f",
+    "data_stream": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+    "badge": "LIVE",
+    "logo_text": "TVP SPORT",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "CT SPORT",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd&key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+    "data_stream": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+    "badge": "LIVE",
+    "logo_text": "CT SPORT",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "DSPORTS",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd&key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c",
+    "data_stream": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+    "badge": "LIVE",
+    "logo_text": "DSPORTS",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "DSPORTS+",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd&key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b",
+    "data_stream": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
+    "badge": "LIVE",
+    "logo_text": "DSPORTS+",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "DSPORTS2",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd&key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294",
+    "data_stream": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd",
+    "badge": "LIVE",
+    "logo_text": "DSPORTS 2",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "TSN 1",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+    "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+    "badge": "LIVE",
+    "logo_text": "TSN 1",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "TSN 2",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd&key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+    "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+    "badge": "LIVE",
+    "logo_text": "TSN 2",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "TSN 3",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd&key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+    "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+    "badge": "LIVE",
+    "logo_text": "TSN 3",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "TSN 4",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd&key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+    "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+    "badge": "LIVE",
+    "logo_text": "TSN 4",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "TSN 5",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd&key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+    "data_stream": "https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+    "badge": "LIVE",
+    "logo_text": "TSN 5",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "CCTV 5",
+    "href": "http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub",
+    "data_stream": "http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub",
+    "badge": "LIVE",
+    "logo_text": "CCTV 5",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "CCTV 5+",
+    "href": "http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub",
+    "data_stream": "http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub",
+    "badge": "LIVE",
+    "logo_text": "CCTV 5+",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Qazsport",
+    "href": "https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+    "data_stream": "https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+    "badge": "LIVE",
+    "logo_text": "Qazsport",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "KAN 11",
+    "href": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
+    "data_stream": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
+    "badge": "LIVE",
+    "logo_text": "KAN 11",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "RTB ANEKA",
+    "href": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u82",
+    "data_stream": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+    "badge": "LIVE",
+    "useragent": "Dalvik/2.1.0 (Linux; U; Android 12; ASUS_I005DA Build/SP1A.210812.016.C2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36",
+    "logo_text": "RTB ANEKA",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "RTB Go",
+    "href": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+    "data_stream": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+    "badge": "LIVE",
+    "useragent": "Dalvik/2.1.0 (Linux; U; Android 12; ASUS_I005DA Build/SP1A.210812.016.C2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36",
+    "logo_text": "RTB Go",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Las Estrellas",
+    "href": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "data_stream": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "badge": "LIVE",
+    "logo_text": "Las Estrellas",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Himalaya Sport",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd&key=220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd&key=220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
+    "badge": "LIVE",
+    "logo_text": "Himalaya Sport",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Telemundo deportes",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd&key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd&key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937",
+    "badge": "LIVE",
+    "logo_text": "Telemundo Deportes",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Telemundo(1)",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+    "badge": "LIVE",
+    "logo_text": "Telemundo (1)",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Telemundo (2)",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+    "badge": "LIVE",
+    "logo_text": "Telemundo (2)",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "WC TV",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd&key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd&key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+    "badge": "LIVE",
+    "logo_text": "WC TV",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Zeebangla",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd&key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd&key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+    "badge": "LIVE",
+    "logo_text": "Zeebangla",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Caze TV 2",
+    "href": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+    "data_stream": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+    "badge": "LIVE",
+    "logo_text": "Caze TV 2",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "TUDN",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd&key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd&key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d",
+    "badge": "LIVE",
+    "logo_text": "TUDN",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "CAZE TV 3",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase&key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase&key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+    "badge": "LIVE",
+    "logo_text": "CAZE TV 3",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "MONO29 HD",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd&key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd&key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516",
+    "badge": "LIVE",
+    "logo_text": "MONO29 HD",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "MATCH!",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd&key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd&key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333",
+    "badge": "LIVE",
+    "logo_text": "MATCH!",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Sukan",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://proxy-c8q.pages.dev/cdn.stmify.com/mytv/stream/SUKAN_RTM/index.mpd&key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://proxy-c8q.pages.dev/cdn.stmify.com/mytv/stream/SUKAN_RTM/index.mpd&key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+    "useragent": " Mozilla/5.0 (Linux; Android 14; RMX3393 Build/UKQ1.230924.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36 (Sky, EM150UK, )",
+    "origin": "https://yaho-9n5.pages.dev",
+    "badge": "LIVE",
+    "logo_text": "Sukan",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Match TV",
+    "href": "https://t5.ultrastream.vip/mtv_laliga/index.m3u8",
+    "data_stream": "https://t5.ultrastream.vip/mtv_laliga/index.m3u8",
+    "origin": "https://matchtvlive.com",
+    "Referer": "https://matchtvlive.com/",
+    "badge": "LIVE",
+    "logo_text": "Match TV",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "VIX MUNDIAL +",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://paz-live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-90-HD-H265/default.mpd&key=b922efd4893a6e4b05db2f0240a4a401:d9e6cfb8a7d28c282630c353cee01835,845afc4f7a5ac1b60d0962851fcd40ad:05b5e032725a57b16ec2bd4fe67ec6f3,7ecf2de72f3d8c80a4355abe8e0f2d1b:4ab47cbccf1ea08fa3fd82970795aad5,696435bb1f9b9387866e4d01ab969779:af4bbc01b4e6c0a14279e11451a3e474,0b470e11c47058c281568c02770088cb:dbf3e8f72b04a59e8f90034aa7552135,bfbf27d8a79f7734f720c3af6a63f5fe:d5fcf98fcee1bbdd44104f188d088335",
+    "data_stream": "https://paz-live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-90-HD-H265/default.mpd",
+    "badge": "LIVE",
+    "logo_text": "VIX MUNDIAL +",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "ZDF DE HD",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://fl-003.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd&key=7fc352fa54683accf20b12f679027661:993400c4b5ad851c8d6368417d6a3b4c",
+    "data_stream": "https://fl-003.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd",
+    "badge": "LIVE",
+    "logo_text": "ZDF HD",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Starhub",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://proxyfr.pages.dev/starhubgo.secureswiftcontent.com/bpk-tv/FIFAWCCh1/output/manifest.mpd&key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://proxyfr.pages.dev/starhubgo.secureswiftcontent.com/bpk-tv/FIFAWCCh1/output/manifest.mpd&key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
+    "useragent": "(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x3715e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)",
+    "badge": "LIVE",
+    "logo_text": "Starhub",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "VIX MUNDIAL",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd&key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
+    "data_stream": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+    "badge": "LIVE",
+    "logo_text": "VIX MUNDIAL",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "VRT Live",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+    "data_stream": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+    "badge": "LIVE",
+    "logo_text": "VRT",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "ITV1",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://proxy-c8q.pages.dev/cdn.stmify.com/primevideo/stream/ITV1/cenc.mpd&key=b6c1c527303bc577b85eb849cbab75d2:ec533d484c550a892ff162e4a5f4dbc3",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://proxy-c8q.pages.dev/cdn.stmify.com/primevideo/stream/ITV1/cenc.mpd&key=b6c1c527303bc577b85eb849cbab75d2:ec533d484c550a892ff162e4a5f4dbc3",
+    "useragent": "Mozilla/5.0 (Linux; Android 14; RMX3393 Build/UKQ1.230924.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36 (Sky, EM150UK, )",
+    "badge": "LIVE",
+    "logo_text": "ITV 1",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Sport TV5",
+    "href": "https://t7.ultrastream.vip/sporttv5/index.m3u8",
+    "data_stream": "https://t7.ultrastream.vip/sporttv5/index.m3u8",
+    "origin": "https://matchtvlive.com",
+    "Referer": "https://matchtvlive.com/",
+    "badge": "LIVE",
+    "logo_text": "Sport TV5",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "WC 1",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://tencent-css.byteplaycdn.com/0b3ac0d9e956a77cb058d9e2f780ccf5/6A2E46AB/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd&key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://tencent-css.byteplaycdn.com/0b3ac0d9e956a77cb058d9e2f780ccf5/6A2E46AB/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd&key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad",
+    "badge": "LIVE",
+    "logo_text": "WC 1",
+    "subtitle": "World Cup 2026"
+  }
+]
