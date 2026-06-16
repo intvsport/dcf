@@ -304,27 +304,11 @@
     "subtitle": "World Cup 2026"
   },
     {
-    "name": "FUSSBALL TV 1 HD",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd&key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd&key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+    "name": "ZEE CINEMA",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd&key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd&key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
     "badge": "LIVE",
-    "logo_text": "FUSSBALL TV 1 HD",
-    "subtitle": "World Cup 2026"
-  },
-    {
-    "name": "FUSSBALL TV 2 HD",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd&key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd&key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef",
-    "badge": "LIVE",
-    "logo_text": "FUSSBALL TV 2 HD",
-    "subtitle": "World Cup 2026"
-  },
-    {
-    "name": "FUSSBALL TV 3 HD",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_hd/DASH/index.mpd&key=16f590cc66a7b75be5bec7d7f9518a64:514ba9039f96dd18dc53f9c20f09f4eb",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_hd/DASH/index.mpd&key=16f590cc66a7b75be5bec7d7f9518a64:514ba9039f96dd18dc53f9c20f09f4eb",
-    "badge": "LIVE",
-    "logo_text": "FUSSBALL TV 3 HD",
+    "logo_text": "ZEE CINEMA",
     "subtitle": "World Cup 2026"
   }
   
