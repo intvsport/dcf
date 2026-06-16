@@ -358,7 +358,14 @@
     "badge": "LIVE",
     "logo_text": "VTV 10",
     "subtitle": "World Cup 2026"
-  }
+  },
+    {
+    "name": "DAZN",
+    "href": "https://intvsport.github.io/dcf/ff13.html?get=https://stream4.oz-tv.store/es_dazn_mundial_fhd/index.m3u8",
+    "data_stream": "https://intvsport.github.io/dcf/ff13.html?get=https://stream4.oz-tv.store/es_dazn_mundial_fhd/index.m3u8",
+    "badge": "LIVE",
+    "logo_text": "DAZN",
+    "subtitle": "
   
 
 
