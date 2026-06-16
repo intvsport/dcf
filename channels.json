@@ -310,6 +310,54 @@
     "badge": "LIVE",
     "logo_text": "JOJ SPORT",
     "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "WC 1",
+    "href": "go:wc1",
+    "data_stream": "go:wc1",
+    "badge": "LIVE",
+    "logo_text": "WC 1",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "WC 2",
+    "href": "go:wc2",
+    "data_stream": "go:wc2",
+    "badge": "LIVE",
+    "logo_text": "WC 2",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "VTV 3",
+    "href": "go:vtv3",
+    "data_stream": "go:vtv3",
+    "badge": "LIVE",
+    "logo_text": "VTV 3",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "VTV 6",
+    "href": "go:vtv6",
+    "data_stream": "go:vtv6",
+    "badge": "LIVE",
+    "logo_text": "VTV 6",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "VTV 9",
+    "href": "go:vtv9",
+    "data_stream": "go:vt9",
+    "badge": "LIVE",
+    "logo_text": "VTV 9",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "VTV 10",
+    "href": "go:vtv10",
+    "data_stream": "go:vtv10",
+    "badge": "LIVE",
+    "logo_text": "VTV 10",
+    "subtitle": "World Cup 2026"
   }
   
 
