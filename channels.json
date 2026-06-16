@@ -209,7 +209,7 @@
   },
     {
     "name": "ZDF DE HD",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://fl-003.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd&key=7fc352fa54683accf20b12f679027661:993400c4b5ad851c8d6368417d6a3b4c",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd&key=c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
     "data_stream": "https://fl-003.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd",
     "badge": "LIVE",
     "logo_text": "ZDF HD",
@@ -255,14 +255,6 @@
     "logo_text": "Sport TV5",
     "subtitle": "World Cup 2026"
   },
-  {
-    "name": "WC 1",
-    "href": "https://gameontv.rf.gd/xx/play_qert.html",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://tencent-css.byteplaycdn.com/0b3ac0d9e956a77cb058d9e2f780ccf5/6A2E46AB/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd&key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad",
-    "badge": "LIVE",
-    "logo_text": "WC 1",
-    "subtitle": "World Cup 2026"
-  },
     {
     "name": "Channel 5",
     "href": "go:coba4",
@@ -296,11 +288,11 @@
     "subtitle": "World Cup 2026"
   },
     {
-    "name": "FOX",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd&key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd&key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+    "name": "FS 1",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd&key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
     "badge": "LIVE",
-    "logo_text": "FOX",
+    "logo_text": "FS 1",
     "subtitle": "World Cup 2026"
   },
     {
@@ -309,6 +301,14 @@
     "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd&key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
     "badge": "LIVE",
     "logo_text": "ZEE CINEMA",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "JOJ SPORT",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd&key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd&key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+    "badge": "LIVE",
+    "logo_text": "JOJ SPORT",
     "subtitle": "World Cup 2026"
   }
   
