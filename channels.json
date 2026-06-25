@@ -366,6 +366,14 @@
     "badge": "LIVE",
     "logo_text": "DAZN",
     "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "fg",
+    "href": "go:fg",
+    "data_stream": "go:fg",
+    "badge": "LIVE",
+    "logo_text": "fg",
+    "subtitle": "World Cup 2026"
   }
   
 
