@@ -317,14 +317,15 @@
     "logo_text": "Live 2",
     "subtitle": "World Cup 2026"
   },
-  {
+    {
     "name": "Live 3",
     "href": "go:mwai",
-    "data_stream": "go:mwai",
+    "data_stream": "https://vistamaxtv.my.id/key/k.php?id=https://ww3.sporttsonline.click/channels/pt/sporttv1.php",
     "badge": "LIVE",
-    "logo_text": "Live 2",
+    "logo_text": "Live 3",
     "subtitle": "World Cup 2026"
   }
+  
   
 
 
