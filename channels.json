@@ -121,18 +121,26 @@
   },
       {
     "name": "Telemundo(1)",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd&key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+    "href": "https://vistamaxtv.my.id/v90.php?id=TDO1",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=TDO1",
     "badge": "LIVE",
     "logo_text": "Telemundo (1)",
     "subtitle": "World Cup 2026"
   },
     {
-    "name": "Telemundo (2)",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd&key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+    "name": "Telemundo(2)",
+    "href": "https://vistamaxtv.my.id/v90.php?id=TDO2",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=TDO2",
     "badge": "LIVE",
-    "logo_text": "Telemundo (2)",
+    "logo_text": "Telemundo (1)",
+    "subtitle": "World Cup 2026"
+  },
+   {
+    "name": "Telemundo(3)",
+    "href": "https://vistamaxtv.my.id/v90.php?id=TDO3",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=TDO3",
+    "badge": "LIVE",
+    "logo_text": "Telemundo (3)",
     "subtitle": "World Cup 2026"
   },
       {
@@ -314,10 +322,18 @@
   },
     {
     "name": "TSN 1",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&key=7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&key=7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76",
+    "href": "go:tsn1",
+    "data_stream": "go:tsn1",
     "badge": "LIVE",
     "logo_text": "TSN 1",
+    "subtitle": "World Cup 2026"
+  },
+      {
+    "name": "RTCG1",
+    "href": "go:RTCG1",
+    "data_stream": "go:RTCG1",
+    "badge": "LIVE",
+    "logo_text": "RTCG1",
     "subtitle": "World Cup 2026"
   },
     {
