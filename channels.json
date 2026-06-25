@@ -449,7 +449,15 @@
     "badge": "LIVE",
     "logo_text": "Live 2",
     "subtitle": "World Cup 2026"
-  }
+  },
+   {
+    "name": "x1",
+    "href": "go:x1",
+    "data_stream": "go:x1",
+    "badge": "LIVE",
+    "logo_text": "x1",
+    "subtitle": "World Cup 2026"
+  },
   
 
 
