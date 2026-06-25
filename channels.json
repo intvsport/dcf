@@ -329,42 +329,34 @@
   },
     {
     "name": "VTV 3",
-    "href": "go:vtv3",
-    "data_stream": "go:vtv3",
+    "href": "https://vistamaxtv.my.id/6.php?id=VTV3",
+    "data_stream": "https://vistamaxtv.my.id/6.php?id=VTV3",
     "badge": "LIVE",
     "logo_text": "VTV 3",
     "subtitle": "World Cup 2026"
   },
     {
     "name": "VTV 6",
-    "href": "go:vtv6",
-    "data_stream": "go:vtv6",
+    "href": "https://vistamaxtv.my.id/6.php?id=VTV6",
+    "data_stream": "https://vistamaxtv.my.id/6.php?id=VTV6",
     "badge": "LIVE",
     "logo_text": "VTV 6",
     "subtitle": "World Cup 2026"
   },
     {
     "name": "VTV 9",
-    "href": "go:vtv9",
-    "data_stream": "go:vt9",
+    "href": "https://vistamaxtv.my.id/6.php?id=VTV9",
+    "data_stream": "https://vistamaxtv.my.id/6.php?id=VTV9",
     "badge": "LIVE",
     "logo_text": "VTV 9",
     "subtitle": "World Cup 2026"
   },
     {
-    "name": "VTV 10",
-    "href": "go:vtv10",
-    "data_stream": "go:vtv10",
+    "name": "VTV 2",
+    "href": "https://vistamaxtv.my.id/6.php?id=VTV2",
+    "data_stream": "https://vistamaxtv.my.id/6.php?id=VTV2",
     "badge": "LIVE",
     "logo_text": "VTV 10",
-    "subtitle": "World Cup 2026"
-  },
-    {
-    "name": "DAZN",
-    "href": "https://intvsport.github.io/dcf/ff13.html?get=https://stream4.oz-tv.store/es_dazn_mundial_fhd/index.m3u8",
-    "data_stream": "https://intvsport.github.io/dcf/ff13.html?get=https://stream4.oz-tv.store/es_dazn_mundial_fhd/index.m3u8",
-    "badge": "LIVE",
-    "logo_text": "DAZN",
     "subtitle": "World Cup 2026"
   },
   {
