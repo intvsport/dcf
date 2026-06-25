@@ -368,11 +368,19 @@
     "subtitle": "World Cup 2026"
   },
   {
-    "name": "fg",
+    "name": "Live 1",
     "href": "go:fg",
     "data_stream": "go:fg",
     "badge": "LIVE",
-    "logo_text": "fg",
+    "logo_text": "Live 1",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Live 2",
+    "href": "go:fg_x",
+    "data_stream": "go:fg_x",
+    "badge": "LIVE",
+    "logo_text": "Live 2",
     "subtitle": "World Cup 2026"
   }
   
