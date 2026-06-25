@@ -224,21 +224,54 @@
     "subtitle": "World Cup 2026"
   },
   {
-    "name": "VIX MUNDIAL",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd&key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
-    "data_stream": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+    "name": "VIX 1",
+    "href": "https://vistamaxtv.my.id/v90.php?id=VIX903",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=VIX903",
     "badge": "LIVE",
-    "logo_text": "VIX MUNDIAL",
+    "logo_text": "VIX 1",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "VIX 2",
+    "href": "https://vistamaxtv.my.id/v90.php?id=VIX912",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=VIX912",
+    "badge": "LIVE",
+    "logo_text": "VIX 2",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "VIX 3",
+    "href": "https://vistamaxtv.my.id/v90.php?id=VIX901",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=VIX901",
+    "badge": "LIVE",
+    "logo_text": "VIX 3",
+    "subtitle": "World Cup 2026"
+  },
+    {
+    "name": "AZTE (1)",
+    "href": "https://vistamaxtv.my.id/v90.php?id=AZTE1",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=AZTE1",
+    "badge": "LIVE",
+    "logo_text": "AZTE (1)",
     "subtitle": "World Cup 2026"
   },
   {
-    "name": "VRT Live",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd&key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-    "data_stream": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+    "name": "AZTE (2)",
+    "href": "https://vistamaxtv.my.id/v90.php?id=AZTE2",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=AZTE2",
     "badge": "LIVE",
-    "logo_text": "VRT",
+    "logo_text": "AZTE (2)",
     "subtitle": "World Cup 2026"
   },
+  {
+    "name": "AZTE (3)",
+    "href": "https://vistamaxtv.my.id/v90.php?id=AZTE3",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=AZTE3",
+    "badge": "LIVE",
+    "logo_text": "AZTE (3)",
+    "subtitle": "World Cup 2026"
+  },
+  
   {
     "name": "ITV1",
     "href": "go:coba3",
