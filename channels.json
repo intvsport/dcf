@@ -71,6 +71,39 @@
     "logo_text": "Qazsport",
     "subtitle": "World Cup 2026"
   },
+   {
+    "name": "Qazsport(2)",
+    "href": "https://vistamaxtv.my.id/v90.php?id=QATV1",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=QATV1",
+    "badge": "LIVE",
+    "logo_text": "Qazsport(2)",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Qazsport(3)",
+    "href": "https://vistamaxtv.my.id/v90.php?id=QATV2",
+    "data_stream": "https://vistamaxtv.my.id/v90.php?id=QATV2",
+    "badge": "LIVE",
+    "logo_text": "Qazsport(3)",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "SVT1",
+    "href": "go:SVT1",
+    "data_stream": "go:SVT1",
+    "badge": "LIVE",
+    "logo_text": "SVT1",
+    "subtitle": "World Cup 2026"
+  },
+   {
+    "name": "FOX",
+    "href": "go:FOXHD",
+    "data_stream": "go:FOXHD",
+    "badge": "LIVE",
+    "logo_text": "FOX",
+    "subtitle": "World Cup 2026"
+  },
+  
     {
     "name": "KAN 11",
     "href": "go:kancdn",
@@ -79,22 +112,7 @@
     "logo_text": "KAN 11",
     "subtitle": "World Cup 2026"
   },
-   {
-    "name": "RTB ANEKA",
-    "href": "go:rtb2",
-    "data_stream": "go:rtb2",
-    "badge": "LIVE",
-    "logo_text": "RTB ANEKA",
-    "subtitle": "World Cup 2026"
-  },
-   {
-    "name": "RTB Go",
-    "href": "go:rtbgo",
-    "data_stream": "go:rtbgo",
-    "badge": "LIVE",
-    "logo_text": "RTB Go",
-    "subtitle": "World Cup 2026"
-  },
+  
    {
     "name": "Las Estrellas",
     "href": "go:lase",
@@ -321,11 +339,19 @@
     "subtitle": "World Cup 2026"
   },
     {
-    "name": "TSN 1",
+    "name": "TSN 1 (1)",
     "href": "go:tsn1",
     "data_stream": "go:tsn1",
     "badge": "LIVE",
-    "logo_text": "TSN 1",
+    "logo_text": "TSN 1 (1)",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "TSN 1 (2)",
+    "href": "go:tsn12",
+    "data_stream": "go:tsn12",
+    "badge": "LIVE",
+    "logo_text": "TSN 1 (2)",
     "subtitle": "World Cup 2026"
   },
       {
