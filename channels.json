@@ -1,13 +1,5 @@
 [
   {
-    "name": "Caze TV 1",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&key=34475edab991ad5e92548aebd710410a&key2=501b209cccd323ac00bf5ac15b406cb4",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&key=34475edab991ad5e92548aebd710410a&key2=501b209cccd323ac00bf5ac15b406cb4",
-    "badge": "LIVE",
-    "logo_text": "Caze TV 1",
-    "subtitle": "World Cup 2026"
-  },
-  {
     "name": "TVP Sport",
     "href": "https://intvsport.github.io/dcf/player.html?get=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd&key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64,181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10,1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f",
     "data_stream": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
@@ -170,11 +162,11 @@
     "subtitle": "World Cup 2026"
   },
   {
-    "name": "Caze TV 2",
+    "name": "Caze TV",
     "href": "go:caze1",
     "data_stream": "go:caze1",
     "badge": "LIVE",
-    "logo_text": "Caze TV 2",
+    "logo_text": "Caze TV",
     "subtitle": "World Cup 2026"
   },
    {
@@ -183,14 +175,6 @@
     "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd&key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d",
     "badge": "LIVE",
     "logo_text": "TUDN",
-    "subtitle": "World Cup 2026"
-  },
-  {
-    "name": "CAZE TV 3",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase&key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase&key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-    "badge": "LIVE",
-    "logo_text": "CAZE TV 3",
     "subtitle": "World Cup 2026"
   },
   {
