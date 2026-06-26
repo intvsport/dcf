@@ -348,6 +348,14 @@
     "badge": "LIVE",
     "logo_text": "Live 6",
     "subtitle": "World Cup 2026"
+  },
+   {
+    "name": "RTB",
+    "href": "go:rtb",
+    "data_stream": "go:rtb",
+    "badge": "LIVE",
+    "logo_text": "RTB",
+    "subtitle": "World Cup 2026"
   }
   
   
