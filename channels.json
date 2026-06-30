@@ -177,29 +177,14 @@
     "subtitle": "World Cup 2026"
   },
     {
-    "name": "AZTE (1)",
-    "href": "https://vistamaxtv.my.id/v90.php?id=AZTE1",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=AZTE1",
+    "name": "Elte",
+    "href": "https://intvsport.github.io/dcf/player2.html?get=https://www.rtmpcdn.com/live/elta.m3u8",
+    "data_stream": "https://intvsport.github.io/dcf/player2.html?get=https://www.rtmpcdn.com/live/elta.m3u8",
     "badge": "LIVE",
-    "logo_text": "AZTE (1)",
+    "logo_text": "Elte",
     "subtitle": "World Cup 2026"
   },
-  {
-    "name": "AZTE (2)",
-    "href": "https://vistamaxtv.my.id/v90.php?id=AZTE2",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=AZTE2",
-    "badge": "LIVE",
-    "logo_text": "AZTE (2)",
-    "subtitle": "World Cup 2026"
-  },
-  {
-    "name": "AZTE (3)",
-    "href": "https://vistamaxtv.my.id/v90.php?id=AZTE3",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=AZTE3",
-    "badge": "LIVE",
-    "logo_text": "AZTE (3)",
-    "subtitle": "World Cup 2026"
-  },
+ 
   
   {
     "name": "Sport TV5",
