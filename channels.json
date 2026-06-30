@@ -32,22 +32,7 @@
     "logo_text": "CCTV 5+",
     "subtitle": "World Cup 2026"
   },
-   {
-    "name": "Qazsport(2)",
-    "href": "https://vistamaxtv.my.id/v90.php?id=QATV1",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=QATV1",
-    "badge": "LIVE",
-    "logo_text": "Qazsport(2)",
-    "subtitle": "World Cup 2026"
-  },
-  {
-    "name": "Qazsport(3)",
-    "href": "https://vistamaxtv.my.id/v90.php?id=QATV2",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=QATV2",
-    "badge": "LIVE",
-    "logo_text": "Qazsport(3)",
-    "subtitle": "World Cup 2026"
-  },
+  
   {
     "name": "SVT1",
     "href": "go:SVT1",
@@ -84,30 +69,7 @@
   },
    
 
-      {
-    "name": "Telemundo(1)",
-    "href": "https://vistamaxtv.my.id/v90.php?id=TDO1",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=TDO1",
-    "badge": "LIVE",
-    "logo_text": "Telemundo (1)",
-    "subtitle": "World Cup 2026"
-  },
-    {
-    "name": "Telemundo(2)",
-    "href": "https://vistamaxtv.my.id/v90.php?id=TDO2",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=TDO2",
-    "badge": "LIVE",
-    "logo_text": "Telemundo (1)",
-    "subtitle": "World Cup 2026"
-  },
-   {
-    "name": "Telemundo(3)",
-    "href": "https://vistamaxtv.my.id/v90.php?id=TDO3",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=TDO3",
-    "badge": "LIVE",
-    "logo_text": "Telemundo (3)",
-    "subtitle": "World Cup 2026"
-  },
+
      
   {
     "name": "Caze TV",
@@ -143,39 +105,9 @@
     "logo_text": "Match TV",
     "subtitle": "World Cup 2026"
   },
-  {
-    "name": "VIX MUNDIAL +",
-    "href": "https://intvsport.github.io/dcf/player.html?get=https://paz-live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-90-HD-H265/default.mpd&key=b922efd4893a6e4b05db2f0240a4a401:d9e6cfb8a7d28c282630c353cee01835,845afc4f7a5ac1b60d0962851fcd40ad:05b5e032725a57b16ec2bd4fe67ec6f3,7ecf2de72f3d8c80a4355abe8e0f2d1b:4ab47cbccf1ea08fa3fd82970795aad5,696435bb1f9b9387866e4d01ab969779:af4bbc01b4e6c0a14279e11451a3e474,0b470e11c47058c281568c02770088cb:dbf3e8f72b04a59e8f90034aa7552135,bfbf27d8a79f7734f720c3af6a63f5fe:d5fcf98fcee1bbdd44104f188d088335",
-    "data_stream": "https://paz-live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-90-HD-H265/default.mpd",
-    "badge": "LIVE",
-    "logo_text": "VIX MUNDIAL +",
-    "subtitle": "World Cup 2026"
-  },
 
-  {
-    "name": "VIX 1",
-    "href": "https://vistamaxtv.my.id/v90.php?id=VIX903",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=VIX903",
-    "badge": "LIVE",
-    "logo_text": "VIX 1",
-    "subtitle": "World Cup 2026"
-  },
-    {
-    "name": "VIX 2",
-    "href": "https://vistamaxtv.my.id/v90.php?id=VIX912",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=VIX912",
-    "badge": "LIVE",
-    "logo_text": "VIX 2",
-    "subtitle": "World Cup 2026"
-  },
-    {
-    "name": "VIX 3",
-    "href": "https://vistamaxtv.my.id/v90.php?id=VIX901",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=VIX901",
-    "badge": "LIVE",
-    "logo_text": "VIX 3",
-    "subtitle": "World Cup 2026"
-  },
+
+
     {
     "name": "Elte",
     "href": "https://intvsport.github.io/dcf/player2.html?get=https://www.rtmpcdn.com/live/elta.m3u8",
@@ -246,38 +178,7 @@
     "logo_text": "WC 2",
     "subtitle": "World Cup 2026"
   },
-    {
-    "name": "VTV 3",
-    "href": "https://vistamaxtv.my.id/6.php?id=VTV3",
-    "data_stream": "https://vistamaxtv.my.id/6.php?id=VTV3",
-    "badge": "LIVE",
-    "logo_text": "VTV 3",
-    "subtitle": "World Cup 2026"
-  },
-    {
-    "name": "VTV 6",
-    "href": "https://vistamaxtv.my.id/6.php?id=VTV6",
-    "data_stream": "https://vistamaxtv.my.id/6.php?id=VTV6",
-    "badge": "LIVE",
-    "logo_text": "VTV 6",
-    "subtitle": "World Cup 2026"
-  },
-    {
-    "name": "VTV 9",
-    "href": "https://vistamaxtv.my.id/6.php?id=VTV9",
-    "data_stream": "https://vistamaxtv.my.id/6.php?id=VTV9",
-    "badge": "LIVE",
-    "logo_text": "VTV 9",
-    "subtitle": "World Cup 2026"
-  },
-    {
-    "name": "VTV 2",
-    "href": "https://vistamaxtv.my.id/6.php?id=VTV2",
-    "data_stream": "https://vistamaxtv.my.id/6.php?id=VTV2",
-    "badge": "LIVE",
-    "logo_text": "VTV 2",
-    "subtitle": "World Cup 2026"
-  },
+    
   {
     "name": "Live 1",
     "href": "go:fg",
