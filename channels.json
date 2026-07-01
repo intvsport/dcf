@@ -33,14 +33,6 @@
     "subtitle": "World Cup 2026"
   },
   
-  {
-    "name": "SVT1",
-    "href": "go:SVT1",
-    "data_stream": "go:SVT1",
-    "badge": "LIVE",
-    "logo_text": "SVT1",
-    "subtitle": "World Cup 2026"
-  },
    {
     "name": "FOX",
     "href": "go:FOXHD",
