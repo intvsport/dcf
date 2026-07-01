@@ -109,7 +109,14 @@
     "subtitle": "World Cup 2026"
   },
  
-    
+    {
+    "name": "NOW",
+    "href": "https://intvsport.github.io/dcf/player2.html?get=https://play.gzxdby.com/live/283334344568_4547627225.m3u8",
+    "data_stream": "https://intvsport.github.io/dcf/player2.html?get=https://play.gzxdby.com/live/283334344568_4547627225.m3u8",
+    "badge": "LIVE",
+    "logo_text": "NOW",
+    "subtitle": "World Cup 2026"
+  },
   
   
     {
