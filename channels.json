@@ -200,6 +200,14 @@
     "badge": "LIVE",
     "logo_text": "Live 7",
     "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Live 8",
+    "href": "go:mwai2",
+    "data_stream": "go:mwai2",
+    "badge": "LIVE",
+    "logo_text": "Live 8",
+    "subtitle": "World Cup 2026"
   }
   
   
