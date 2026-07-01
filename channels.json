@@ -117,42 +117,8 @@
     "subtitle": "World Cup 2026"
   },
  
-  
-  {
-    "name": "Sport TV5",
-    "href": "go:sporttv5",
-    "data_stream": "go:sporttv5",
-    "badge": "LIVE",
-    "logo_text": "Sport TV5",
-    "subtitle": "World Cup 2026"
-  },
     
   
-    {
-    "name": "TSN 1 (1)",
-    "href": "go:tsn1",
-    "data_stream": "go:tsn1",
-    "badge": "LIVE",
-    "logo_text": "TSN 1 (1)",
-    "subtitle": "World Cup 2026"
-  },
-  {
-    "name": "TSN 1 (2)",
-    "href": "go:tsn12",
-    "data_stream": "go:tsn12",
-    "badge": "LIVE",
-    "logo_text": "TSN 1 (2)",
-    "subtitle": "World Cup 2026"
-  },
-      {
-    "name": "RTCG1",
-    "href": "https://vistamaxtv.my.id/v90.php?id=RTCG1",
-    "data_stream": "https://vistamaxtv.my.id/v90.php?id=RTCG1",
-    "badge": "LIVE",
-    "logo_text": "RTCG1",
-    "subtitle": "World Cup 2026"
-  },
-   
   
     {
     "name": "JOJ SPORT",
@@ -221,7 +187,7 @@
   },
   {
     "name": "Live 6",
-    "href": "https://vistamaxtv.my.id/key/k.php?id=https://cricsfree.cfd/live/stream-112.php",
+    "href": "https://vistamaxtv.my.id/key/k.php?id=https://cricsfree.cfd/live/stream-54.php",
     "data_stream": "https://vistamaxtv.my.id/key/k.php?id=https://cricsfree.cfd/live/stream-112.php",
     "badge": "LIVE",
     "logo_text": "Live 6",
