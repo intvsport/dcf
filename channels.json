@@ -158,7 +158,7 @@
   },
     {
     "name": "Live 3",
-    "href": "https://vistamaxtv.my.id/key/k.php?id=https://v4.sportsonlinne.click/channels/hd/hd1.php ",
+    "href": "https://vistamaxtv.my.id/key/k.php?id=https://ww3.sporttsonline.click/channels/pt/sporttv1.php",
     "data_stream": "https://vistamaxtv.my.id/key/k.php?id=https://ww3.sporttsonline.click/channels/pt/sporttv1.php",
     "badge": "LIVE",
     "logo_text": "Live 3",
@@ -166,7 +166,7 @@
   },
   {
     "name": "Live 4",
-    "href": "https://vistamaxtv.my.id/key/k.php?id=https://v4.sportsonlinne.click/channels/pt/sporttv5.php ",
+    "href": "https://vistamaxtv.my.id/key/k.php?id=https://ww3.sporttsonline.click/channels/pt/sporttv5.php",
     "data_stream": "https://vistamaxtv.my.id/key/k.php?id=https://ww3.sporttsonline.click/channels/pt/sporttv5.php",
     "badge": "LIVE",
     "logo_text": "Live 4",
@@ -210,6 +210,38 @@
     "data_stream": "go:mwai2",
     "badge": "LIVE",
     "logo_text": "Live 8",
+    "subtitle": "World Cup 2026"
+  },
+   {
+    "name": "Live 9",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd&key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd&key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+    "badge": "LIVE",
+    "logo_text": "Live 9",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "Live 10",
+    "href": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd&key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+    "data_stream": "https://intvsport.github.io/dcf/player.html?get=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd&key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+    "badge": "LIVE",
+    "logo_text": "Live 10",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "NHK(1)",
+    "href": "go:nhk",
+    "data_stream": "go:nhk",
+    "badge": "LIVE",
+    "logo_text": "NHK(1)",
+    "subtitle": "World Cup 2026"
+  },
+  {
+    "name": "NHK (2)",
+    "href": "go:nhkx",
+    "data_stream": "go:nhkx",
+    "badge": "LIVE",
+    "logo_text": "NHK (2)",
     "subtitle": "World Cup 2026"
   }
   
